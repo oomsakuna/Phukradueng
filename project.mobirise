@@ -491,7 +491,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://sites.google.com/site/reviewphukradueng/kar-thxng-theiyw-bn-yxd-khea-phukradung/pha-hlmsak\">ผาหล่มสัก</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -543,20 +543,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://sites.google.com/site/reviewphukradueng/kar-thxng-theiyw-bn-yxd-khea-phukradung/pha-hma-kduk\">ผาหมากดูก</a>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/download-6-275x183.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/download-6-275x183-275x183.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"http://bigm2cu.blogspot.com/2014/11/phukradung_20.html\">สระอโนดาต</a>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
