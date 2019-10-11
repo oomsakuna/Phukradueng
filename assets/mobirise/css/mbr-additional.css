@@ -1051,28 +1051,3 @@ section.lazy-placeholder:after {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-rErrN63Tu7 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/201877-960x721.jpg");
-}
-.cid-rErrN63Tu7 .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
-}
-.cid-rErrN63Tu7 .mbr-author-name {
-  font-weight: bold;
-  color: #ffffff;
-}
-.cid-rErrN63Tu7 .mbr-author-desc {
-  color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-rErrN63Tu7 .mbr-figure,
-  .cid-rErrN63Tu7 img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
-  }
-}
